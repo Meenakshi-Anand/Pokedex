@@ -1,4 +1,4 @@
-import { RECEIVE_ALL_POKEMON } from '../actions/pokemon_actions';
+import { RECEIVE_ALL_POKEMON } from '../actions/pokemon_action';
 
 import merge from 'lodash/merge';
 
